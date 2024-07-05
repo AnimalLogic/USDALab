@@ -65,7 +65,7 @@ If your application does not set the start and end frame automatically (e.g. whe
 You can also view through the shot camera on `prim` path: `/root/camera01/GEO/renderCam_hrc/renderCam_buffer/renderCam_srt/renderCam`.
 
 ## Baked Procedurals
-* Baked procedurals (mainly in the form of `BasisCurves`) for the fur & cloth of the characters. 
+* Baked procedurals (mainly in the form of `BasisCurves`) for the fur & cloth of the characters.
 
 Unzip the contents on top of the default ALab package to merge the `baked_procedurals` folder, overriding the previously empty `baked_procedurals/main.usda` file.
 
