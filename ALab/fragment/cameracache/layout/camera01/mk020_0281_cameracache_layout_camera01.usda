@@ -28,7 +28,7 @@ over "root" (
     variantSet "camera_domain" = {
         "layout" {
             def "GEO" (
-                prepend references = @base/cache/mk020_0281_cameracache_layout_camera01_base_cache.usdc@
+                prepend references = @base/cache/mk020_0281_cameracache_layout_camera01_base_cache.usd@
             )
             {
             }
