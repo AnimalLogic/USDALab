@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/assembly/assembly/proc_dev_circuit_board_small01/assembly_assembly_proc_dev_circuit_board_small01.usdc@
+    prepend references = @../../../fragment/assembly/assembly/proc_dev_circuit_board_small01/assembly_assembly_proc_dev_circuit_board_small01.usd@
 )
 {
 }

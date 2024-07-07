@@ -4,7 +4,7 @@
 )
 
 def "root" (
-    prepend references = @../../../fragment/assembly/assembly/jar_filling/assembly_assembly_jar_filling.usdc@
+    prepend references = @../../../fragment/assembly/assembly/jar_filling/assembly_assembly_jar_filling.usd@
 )
 {
 }
