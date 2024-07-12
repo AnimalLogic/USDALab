@@ -1,6 +1,5 @@
 ![Glimpse](docs/public/doc_header.jpg)
 
-
 # Introduction
 
 Welcome to Animal Logic's USD [ALab](https://animallogic.com/alab/).
@@ -15,7 +14,6 @@ For quick preview and inspection, [`USDView`](https://graphics.pixar.com/usd/doc
 |   Glimpse (AL proprietary)   | Houdini (Karma) |  Maya (VP2/render purpose) |  UsdView (Storm/render purpose)  |
 | ---------------------------- | --------------- | ------------------ | ------------------------ |
 |![Glimpse](docs/public/glimpse_phase2.png)|![Houdini screenshot](docs/public/houdini_phase2.png)|![Maya 2022 screenshot](docs/public/maya_phase2.png)|![UsdView (render purpose)](docs/public/usdview_phase2.png)|
-
 
 # Documentation
 
@@ -66,6 +64,7 @@ You can also view through the shot camera on `prim` path: `/root/camera01/GEO/re
 
 ## Baked Procedurals
 * Baked procedurals (mainly in the form of `BasisCurves`) for the fur & cloth of the characters.
+
 
 Unzip the contents on top of the default ALab package to merge the `baked_procedurals` folder, overriding the previously empty `baked_procedurals/main.usda` file.
 
